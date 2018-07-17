@@ -32,7 +32,8 @@
     "release": "standard-version",
     "preversion": "sh build/apidocs.sh",
     "postversion": "sh build/update-gh-pages.sh",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "debug": "node --nolazy --inspect-brk=5858 node_modules/.bin/_mocha"
   },
   "keywords": [
     "postgres",

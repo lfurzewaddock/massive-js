@@ -27,6 +27,8 @@ Here are some of the high points:
 
 [See CONTRIBUTING.md](https://github.com/dmfay/massive-js/blob/master/CONTRIBUTING.md).
 
+Code contributors should either install current release of MS VS Code extension: [WSL workspaceFolder](https://marketplace.visualstudio.com/items?itemName=lfurzewaddock.vscode-wsl-workspacefolder) or replace command reference in .vscode/launch.json
+
 ## Table of Contents
 
 <!-- vim-markdown-toc GFM -->
