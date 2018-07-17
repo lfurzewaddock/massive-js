@@ -1,6 +1,6 @@
 {
   "name": "massive",
-  "version": "5.0.0",
+  "version": "5.1.1",
   "description": "A small query tool for Postgres that embraces json and makes life simpler",
   "homepage": "https://dmfay.github.io/massive-js/",
   "bugs": "https://github.com/dmfay/massive-js/issues",
@@ -60,21 +60,21 @@
     }
   },
   "dependencies": {
-    "commander": "2.15.1",
+    "commander": "2.16.0",
     "glob": "7.1.2",
     "lodash": "4.17.10",
-    "pg-promise": "8.4.4",
+    "pg-promise": "8.4.5",
     "pg-query-stream": "1.1.1"
   },
   "devDependencies": {
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
     "co-mocha": "1.2.2",
-    "coveralls": "3.0.1",
-    "eslint": "4.19.1",
+    "coveralls": "3.0.2",
+    "eslint": "5.0.1",
     "jsdoc": "3.5.5",
     "mocha": "5.2.0",
-    "nyc": "12.0.1",
+    "nyc": "12.0.2",
     "standard-version": "4.4.0"
   },
   "repository": {
